@@ -16,9 +16,10 @@ _Item 2
     _Subtiem 2.1
     _Sbuitem 2.2
 
-    1. First
-    2. Second
-    3. Third
+1. First
+2. Second
+3. Third
 
 [Link Text](https://www.google.com)
-! [An image of a cat]
+! [An image of a cat](https://placekitten.com/200/300)
+![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
